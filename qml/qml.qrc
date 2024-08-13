@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>Pages/PageStart.qml</file>
+        <file>Pages/PageProceed.qml</file>
+        <file>Pages/PageMain.qml</file>
+        <file>Controls/BasicButton.qml</file>
+        <file>Controls/Histogram.qml</file>
+        <file>Controls/Table.qml</file>
+        <file>Config/qmldir</file>
+        <file>Config/SizeConfig.qml</file>
+        <file>Config/ColorConfig.qml</file>
+        <file>Config/Constants.qml</file>
+    </qresource>
+</RCC>

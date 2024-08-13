@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>choose.svg</file>
+        <file>analyze.svg</file>
+    </qresource>
+</RCC>

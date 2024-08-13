@@ -1,0 +1,3 @@
+singleton SizeConfig 1.0 SizeConfig.qml
+singleton ColorConfig 1.0 ColorConfig.qml
+singleton Constants 1.0 Constants.qml
